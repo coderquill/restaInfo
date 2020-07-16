@@ -133,7 +133,7 @@ function RenderDish({ dish }) {
       <div></div>
     );
 }
-function RenderComments({comments, postComment, dishId}) {
+function RenderComments({ comments, postComment, dishId }) {
   if (comments != null) {
     if (comments.length !== 0)
       return (
@@ -154,7 +154,7 @@ function RenderComments({comments, postComment, dishId}) {
               })
 
             }
-            <CommentForm dishId={dishId} postComment={postComment} />
+              <CommentForm dishId={dishId} postComment={postComment} />
             </CardText>
           </CardBody>
 
