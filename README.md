@@ -1,5 +1,14 @@
 Users can view the restaurant information, available menu with each dish’s review, review dishes and add feedback. 
-Utilized: HTML, CSS, Bootstrap, Javascript, React concepts(react-forms, redux, flux, thunk, react-animations)
+Utilized: HTML, CSS, Bootstrap, Javascript, React concepts(react-forms, redux, flux, thunk, react-animations).
+
+![Home](https://user-images.githubusercontent.com/30548190/87958982-d8a5b180-cacf-11ea-93f3-71a89b384b30.png)
+
+![Home1](https://user-images.githubusercontent.com/30548190/87959101-04289c00-cad0-11ea-8ba2-250bcfb75846.png)
+
+![Review](https://user-images.githubusercontent.com/30548190/87959210-2cb09600-cad0-11ea-9c61-440881570f8b.png)
+
+
+![contact](https://user-images.githubusercontent.com/30548190/87959330-5964ad80-cad0-11ea-820f-dcdb1fdc3198.png)
 
 
 
