@@ -1,3 +1,13 @@
+Users can view the restaurant information, available menu with each dish’s review, review dishes and add feedback. 
+Utilized: HTML, CSS, Bootstrap, Javascript, React concepts(react-forms, redux, flux, thunk, react-animations)
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
